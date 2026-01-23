@@ -143,7 +143,7 @@ output/2026-01-16_14-30-00/
 
 ## More Examples
 
-We provide examples across diverse non-coding domains: travel planning, video production, music composition, poster design, and more.
+We provide examples across diverse non-coding domains: scientific reasoning, long-cotext understanding, instruction following, travel planning, video production, music composition, poster design, and more.
 
 👉 See [examples/README.md](./examples/README.md) for the full list.
 
