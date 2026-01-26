@@ -170,3 +170,14 @@ Shaohan Huang: shaohanh@microsoft.com
 ## Acknowledgment
 
 We learned the design and reused code from [R2E-Gym](https://github.com/R2E-Gym/R2E-Gym). Thanks for the great work!
+
+## Citation
+If you find our work helpful, please cite us:
+```bibtex
+@article{cheng2026llm,
+  title={LLM-in-Sandbox Elicits General Agentic Intelligence},
+  author={Cheng, Daixuan and Huang, Shaohan and Gu, Yuxian and Song, Huatong and Chen, Guoxin and Dong, Li and Zhao, Wayne Xin and Wen, Ji-Rong and Wei, Furu},
+  journal={arXiv preprint arXiv:2601.16206},
+  year={2026}
+}
+```
